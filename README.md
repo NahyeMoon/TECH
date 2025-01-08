@@ -12,7 +12,7 @@
 </li>
 <br/>
 
-
+<li>
 <strong>Retail</strong>: <br/>
 
    <ul style="list-style-type: circle; font-weight: light;">
