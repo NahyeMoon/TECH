@@ -1,6 +1,5 @@
 # TECH
 
-
 * <strong>Transportation</strong>:
   - Layoffs in Transportation driven by travel restrictions recorded 13,600 in 2020, making it the industry with the most layoffs that year(Figure). Uber contributed 6,700—the highest recorded by any company that year—and Airbnb in Travel reported 1,900, the 4th highest (Figure).
   - Layoffs remained significant in 2022 with 12,870 but decreased to 8,268 in 2023 as the post-pandemic recovery began.
@@ -18,7 +17,7 @@
   - The food industry recorded 5,629 layoffs in 2020, with 2,250 from Swiggy (ranked 3rd), driven by cost reductions and gathering restrictions.
   - Layoffs surged to 16,252 in 2023, with Flink contributing 8,100 (ranked 5th), as companies downsized after overexpansion during the peak of the pandemic when demand for online food delivery was at its highest.
 
-*<strong>Finance</strong>:
+* <strong>Finance</strong>:
   - The recorded layoffs in Finance rose by approximately 87% in 2022 (10,663) and by 130% compared to 2020 (5,623), driven by ongoing economic downturns and the increasing replacement of jobs through automation.
 
 
