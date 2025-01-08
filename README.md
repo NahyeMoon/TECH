@@ -15,7 +15,7 @@
 
 <br/>
 
-* <strong>Consumer</strong>: <br/>
+* <strong>Consumer</strong>:
   - The layoffs in Consumer followed a similar pattern to Retail due to the shift in demand toward online services and subsequent demand stabilization. 
   - The number started at 5,341 in 2020 and surged to 18,350 in 2022, with Meta contributing 11,000 layoffs (ranked 1st). 
   - In 2023, layoffs increased further to 27,110, with Meta accounting for 10,000 (ranked 3rd) and Google contributing 12,000 (ranked 2nd).  
@@ -25,14 +25,9 @@
 
 * <strong>Food</strong>: <br/>
   - The food industry recorded 5,629 layoffs in 2020, with 2,250 from Swiggy (ranked 3rd), driven by cost reductions and gathering restrictions.
-  - Layoffs surged to 16,252 in 2023, with Flink contributing 8,100 (ranked 5th), as companies downsized after overexpansion during the peak of the pandemic when demand for online food delivery was at its highest. 
-  
+  - Layoffs surged to 16,252 in 2023, with Flink contributing 8,100 (ranked 5th), as companies downsized after overexpansion during the peak of the pandemic when demand for online food delivery was at its highest.
 
-<br/>
-
-
-
-    <strong>Finance</strong>: <br/>
-    The recorded layoffs in Finance rose by approximately 87% in 2022 (10,663) and by 130% compared to 2020 (5,623), driven by ongoing economic downturns and the increasing replacement of jobs through automation.
+*<strong>Finance</strong>:
+  - The recorded layoffs in Finance rose by approximately 87% in 2022 (10,663) and by 130% compared to 2020 (5,623), driven by ongoing economic downturns and the increasing replacement of jobs through automation.
 
 
